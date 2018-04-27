@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/ravenous/src/secret
+/src/secret
 
 # testing
 /coverage

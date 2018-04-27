@@ -8,5 +8,5 @@
 - HTML
 - Yelp API
 
-run `npm to install` dependencies.  You must get your own Yelp API key.
-`run npm start` to start the server
+run **npm to install** dependencies.  You must get your own Yelp API key.
+**run npm start** to start the server
