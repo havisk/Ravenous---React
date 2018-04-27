@@ -47,7 +47,7 @@ class SearchBar extends React.Component {
   }
 
   handleTermChange(event){
-    this.setState({term: event.target.value})
+    this.setState({term: event.target.value});
   }
 
   handleLocationChange(event){
@@ -56,7 +56,7 @@ class SearchBar extends React.Component {
   }
 
   handleSearch(event){
-    this.props.searchYelp(this.term, this.location, this.sortBy);
+    this.props.searchYelp(this.state.term, this.state.location, this.state.sortBy);
     event.preventDefault();
   }
 
