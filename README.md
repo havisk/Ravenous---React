@@ -1,8 +1,8 @@
 # Ravenous
 
-###Desc: App to search local businesses.  Utilizes the Yelp API
+### Desc: App to search local businesses.  Utilizes the Yelp API
 
-##Tech
+## Tech
 - React
 - CSS
 - HTML
@@ -11,4 +11,4 @@
 run **npm to install** dependencies.  You must get your own Yelp API key.
 **run npm start** to start the server
 
-###Link: http://diz-info.surge.sh/
+### Link: http://diz-info.surge.sh/
